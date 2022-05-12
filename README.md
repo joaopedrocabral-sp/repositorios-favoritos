@@ -1,5 +1,5 @@
 # Se você quer testar ou usar a aplicação acesse aqui:
-[Projeto](https://favorite-repos.netlify.app/)
+### [Link para o Projeto](https://favorite-repos.netlify.app/)
 
 Digite o nome do repositorio que você quer acessar, por exemplo o React, é só digitar facebook/react.
 
