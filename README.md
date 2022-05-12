@@ -10,6 +10,13 @@ Se quiser tirar o repositório clique na lixeira 🗑️
 Os repositórios que você colocar na lista ficaram guardados no localStorage, então pode recarregar a página sem medo 😉
 
 
+## Tecnologias usadas 🛠️
+<img allign="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img allign="center" alt="STYLED COMPONENTS" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
+">
+<img allign="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+
 
 # Getting Started with Create React App
 
