@@ -1,3 +1,8 @@
+# Se você quer testar ou usar a aplicação acesse aqui:
+[Projeto](https://favorite-repos.netlify.app/)
+
+Digite o nome do repositorio que você quer acessar, por exemplo o React, é só digitar facebook/react.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
