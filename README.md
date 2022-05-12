@@ -2,6 +2,9 @@
 ### [Link para o Projeto](https://favorite-repos.netlify.app/)
 
 Digite o nome do repositorio que você quer acessar, por exemplo o React, é só digitar facebook/react.
+Depois de ter adicionado na lista, basta clicar no menu hamburguer para ver as issues e pode filtrá-las por todas, abertas ou fechadas apenas.
+Se quiser tirar o repositório clique na lixeira 🗑️
+Os repositórios que você colocar na lista ficaram guardados no localStorage, então pode recarregar a página sem medo 😉
 
 # Getting Started with Create React App
 
