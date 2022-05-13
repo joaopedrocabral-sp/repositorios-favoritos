@@ -57,7 +57,6 @@ export default function Main() {
             }finally{
                 setLoading(false);
             }
-            
         }
 
         submit();
